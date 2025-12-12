@@ -1,0 +1,7 @@
+{
+  "name": "healthiswealth",
+  "description": "A neo-brutalist product scanner and analyzer using Gemini AI to grade product healthiness.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
